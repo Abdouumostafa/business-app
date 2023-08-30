@@ -7,7 +7,7 @@ import {Navbar,
   CTA,
   Stats,
   Footer,
-  Testimonials,
+  Testimonials, 
   Hero,} from './components/index';
 
 const App = () => {
